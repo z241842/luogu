@@ -3,7 +3,7 @@
 | 这个作业要求在哪里 | https://bbs.csdn.net/topics/617213407 |
 | 这个作业的目标 | 熟练使用pyhton语言，学会requests请求，GUI设计，JSON解码，BeautifulSoup使用，使用copliot和ChatGPT写代码 |
 | 学号 | 102102130 |
-| github仓库 | https://github.com/z241842/z241842.github.io |
+| github仓库 | [https://github.com/z241842/z241842.github.io](https://github.com/z241842/luogu/tree/main) |
 ## 背景
 为了更好地提升代码能力，jason哥想要收集相应的题目，有针对性地刷题。而需要收集洛谷所有题目，
 但是工作量太大，所以jason哥急需大家运用爬虫技术，得到洛谷各种难度的题目和题解。
